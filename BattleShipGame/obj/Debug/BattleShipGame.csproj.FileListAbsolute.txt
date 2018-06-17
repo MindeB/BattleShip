@@ -1,0 +1,6 @@
+C:\Users\Mindaugas\Documents\KTU darbai\Visma\BattleShipGame\BattleShipGame\bin\Debug\BattleShipGame.exe.config
+C:\Users\Mindaugas\Documents\KTU darbai\Visma\BattleShipGame\BattleShipGame\bin\Debug\BattleShipGame.exe
+C:\Users\Mindaugas\Documents\KTU darbai\Visma\BattleShipGame\BattleShipGame\bin\Debug\BattleShipGame.pdb
+C:\Users\Mindaugas\Documents\KTU darbai\Visma\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Documents\KTU darbai\Visma\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.exe
+C:\Users\Mindaugas\Documents\KTU darbai\Visma\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.pdb
